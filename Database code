@@ -1,7 +1,7 @@
-DATABASE SCHEMA
+#DATABASE SCHEMA
 
 <?php
-CREATE TABLE `js_libraries` (
+CREATE TABLE `opinion_poll` (
 
   `id` int(11) NOT NULL AUTO_INCREMENT,
 
@@ -79,7 +79,7 @@ class Opinion_poll_model {
 ?>
 
 
-1.CODE FOR OPINION POLL(index.php)
+#1.CODE FOR OPINION POLL(index.php)
 
 <?php
 
@@ -131,7 +131,7 @@ require 'opinion.html.php';
 
 ?>
 
-2.VIEWS (opinion.html.php)
+#2.VIEWS (opinion.html.php)
 
 
 <html>
@@ -168,7 +168,7 @@ require 'opinion.html.php';
 
 </html>
 
-3.RESULTS (results.html.php)
+#3.RESULTS (results.html.php)
 
 <html>
 
