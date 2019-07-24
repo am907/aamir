@@ -1,3 +1,5 @@
+DATABASE CONNECTIVITY
+
 <?php
 CREATE TABLE `js_libraries` (
 
